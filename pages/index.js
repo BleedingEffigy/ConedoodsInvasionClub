@@ -36,7 +36,7 @@ bananas out known to man." key="twdesc" />
               alt="Tailwind Play" />
           <div className="divide-y divide-gray-300/50">
             <div className="py-8 text-base leading-7 space-y-6 text-gray-600">
-              <h1 className="text-4xl text-sky-500 font-extrabold tracking-wider">Destroy All Doods</h1>
+              <h1 className="text-4xl text-pink-500/80 font-extrabold tracking-wider">Destroy All Doods</h1>
 
               <a href="#" className="underline">OpenSea</a> ∙ <a href="#" className="underline">LooksRare</a>∙ <a href="#" className="underline">Etherscan</a>∙ <a href="#" className="underline">Discord</a>∙ <a href="#" className="underline">Reddit</a>∙ <a href="#" className="underline">Twitter</a>∙ <a href="#" className="underline">Tiktok</a>∙ <a href="#" className="underline">Instagram</a>∙ <a href="#" className="underline">Facebook</a>∙
 
@@ -51,14 +51,14 @@ bananas out known to man." key="twdesc" />
                 whose mission is to teach 1 million people how to be users and builders in Web3
               </p>
 
-              <button className="bg-sky-500 rounded-lg py-2 px-4 font-bold text-xl text-white/80 ring ring-sky-500/5 shadow-sky-500/50 shadow-lg">
+              <button className="bg-pink-500 rounded-lg py-2 px-4 font-bold text-xl text-white/80 ring ring-pink-500/5 shadow-pink-500/50 shadow-lg">
               Get whitelisted
               </button>
             </div>
-            <div className="pt-8 text-base leading-7 font-semibold bg-sky-500/30 rounded-lg p-2 shadow-md shadow-sky-500/50">
+            <div className="pt-8 text-base leading-7 font-semibold bg-pink-500/30 rounded-lg p-2 shadow-md shadow-pink-500/50">
               <p className="text-gray-900">Want to learn more about Web3?</p>
               <p>
-                <a href="https://ephemeus.ahernandez.dev/" className="text-sky-500 hover:text-sky-600">Visit our DAO &rarr;</a>
+                <a href="https://ephemeus.ahernandez.dev/" className="text-pink-500 hover:text-pink-600">Visit our DAO &rarr;</a>
               </p>
             </div>
           </div>
